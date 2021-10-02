@@ -1,7 +1,7 @@
 # Cab Investment Case for G2M stratey 
 
 
-In the G2M insight for Cab Investment firm ( Must for all Specialization) project, we will show which company (Yellow Cab or Pink Cab) is the better opportunity to invest in it.
+In the G2M insight for Cab Investment firm project, we will show which company (Yellow Cab or Pink Cab) is the better opportunity to invest in it.
 
 Here is some points before checking the results out:
 
