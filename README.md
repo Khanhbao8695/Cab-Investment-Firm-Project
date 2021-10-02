@@ -5,9 +5,9 @@ In the G2M insight for Cab Investment firm ( Must for all Specialization) projec
 
 Here is some points before checking the results out:
 
-1) We use 4 datasets : Cab_Data.csv City.csv Customer_ID.csv Transaction_ID.csv US Bank holidays.csv
+1) We use 4 datasets : Cab_Data.csv, City.csv, Customer_ID.csv, Transaction_ID.csv
 
-2) Profit is defined by me: Profit = Price Charged - Cost of Trip
+2) Profit is defined by: Profit = Price Charged - Cost of Trip
 
 3) "data" is a dataframe is created by merging mentioned 4 dataframes
 
